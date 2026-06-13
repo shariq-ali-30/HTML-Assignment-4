@@ -41,10 +41,6 @@ Through this assignment, I learned:
 - How to create linked pages
 - How to structure a complete multi-page website
 
-## Course Information
-
-I'm currently learning Web and App Development at SMIT and this project is part of my HTML practice assignments.
-
 ## Author
 
 **Shariq Ali**
